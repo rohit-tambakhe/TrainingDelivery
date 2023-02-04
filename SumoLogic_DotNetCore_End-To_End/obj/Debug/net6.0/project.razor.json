@@ -1,0 +1,20 @@
+{
+  "SerializedFilePath": "c:\\Users\\Rohit\\OneDrive\\Documents\\TrainingDelivery\\SumoLogic_DotNetCore_End-To_End\\obj\\Debug\\net6.0\\project.razor.json",
+  "FilePath": "c:\\Users\\Rohit\\OneDrive\\Documents\\TrainingDelivery\\SumoLogic_DotNetCore_End-To_End\\DotNetCoreSumoLogic.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1000
+  },
+  "RootNamespace": "DotNetCoreSumoLogic",
+  "Documents": [],
+  "SerializationFormat": "0.3"
+}
