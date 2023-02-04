@@ -70,6 +70,6 @@
                     "iam:PermissionsBoundary": "arn:aws:iam::YOUR_ACCOUNT_ID:policy/permission-boundary"
                 }
             }
-        }       
+        }
     ]
 }
